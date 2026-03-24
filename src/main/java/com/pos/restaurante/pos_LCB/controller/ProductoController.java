@@ -1,6 +1,5 @@
-package com.pos.restaurante.pos_LCB.controllers;
+package com.pos.restaurante.pos_LCB.controller;
 
-import jakarta.servlet.annotation.HandlesTypes;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
